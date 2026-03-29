@@ -57,33 +57,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-## 🌐 Socials:
-<div style="display: flex; grid-gap: 20px">
-   <a href="https://www.linkedin.com/in/ethrynto/">
-      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/linkedin.svg" style="width: 30px" title="LinkedIn">
-   </a>
-   <a href="https://stackoverflow.com/users/29053105/ethrynto">
-      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/stackoverflow.svg" style="width: 30px" title="Stackoverflow">
-   </a>
-   <a href="https://www.facebook.com/Ethrynto">
-      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/facebook.svg" style="width: 30px" title="Facebook">
-   </a>
-   <a href="https://www.reddit.com/user/Ethrynto/">
-      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/reddit.svg" style="width: 30px" title="Reddit">
-   </a>
-   <a href="https://discord.com/invite/Ethrynto">
-      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/discord.svg" style="width: 30px" title="Discord">
-   </a>
-   <a href="https://bsky.app/profile/ethrynto">
-      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/bluesky.svg" style="width: 30px" title="BlueSky">
-   </a>
-   <a href="https://codepen.io/Ethrynto">
-      <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/codepen.svg" style="width: 30px" title="Codepen">
-   </a>
-</div>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ethrynto&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ethrynto&theme=aura&hide_border=false)<br/>
