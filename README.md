@@ -4,13 +4,15 @@
 # 💻 Tech Stack:
 ### Back End
 <div style="display: flex; grid-gap: 20px">
+   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/php.png" style="width: 50px; margin-left: 20px" title="PHP">
+   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/java.svg" style="width: 50px; margin-left: 20px" title="Java">
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/c-sharp.png" style="width: 50px" title="C#"> 
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/cpp.png" style="width: 50px; margin-left: 20px" title="C++">
-   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/php.png" style="width: 50px; margin-left: 20px" title="PHP">
    <br>
+   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/Laravel.png" style="width: 50px; margin-left: 20px" title="Laravel">   
+   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/spring-icon.png" style="width: 50px; margin-left: 20px" title="Spring Framework">   
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/dotnet.svg" style="width: 50px; border-radius: 5px" title=".NET">
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/CMake.png" style="width: 50px; margin-left: 20px" title="CMake">
-   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/Laravel.png" style="width: 50px; margin-left: 20px" title="Laravel">   
 </div>
 
 ### Front End
