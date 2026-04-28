@@ -10,7 +10,7 @@
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/cpp.png" style="width: 50px; margin-left: 20px" title="C++">
    <br>
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/Laravel.png" style="width: 50px; margin-left: 20px" title="Laravel">   
-   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/spring-icon.png" style="width: 50px; margin-left: 20px" title="Spring Framework">   
+   <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/spring-icon.svg" style="width: 50px; margin-left: 20px" title="Spring Framework">   
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/dotnet.svg" style="width: 50px; border-radius: 5px" title=".NET">
    <img src="https://github.com/Ethrynto/Ethrynto/blob/master/assets/CMake.png" style="width: 50px; margin-left: 20px" title="CMake">
 </div>
